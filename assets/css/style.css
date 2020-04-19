@@ -86,7 +86,7 @@ body.index {
     body.index {
      background-image: url("../images/large-record.png") !important; 
      backgroud-attachment: fixed !important;
-     background-position: center !important;
+     background-position: 400px 40px !important;
     }
 }
 
