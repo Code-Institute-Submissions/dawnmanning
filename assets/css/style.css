@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+.content {
+  max-width: 1400px;
+  margin: auto;
+}
+
 .navbar {
     font-family: 'Orbitron', sans-serif;
     display: flex;
@@ -80,7 +85,6 @@ body.index {
         }
     body.index {
      background-repeat: repeat-x;
-     
     }
 }
 
