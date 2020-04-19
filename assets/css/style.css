@@ -79,7 +79,7 @@ body.index {
         margin-top: 200px;
         }
     body.index {
-     background-repeat: repeat;
+     background-repeat: repeat-x;
      background-color: pink;  
     }
 }
