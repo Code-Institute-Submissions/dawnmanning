@@ -84,7 +84,8 @@ body.index {
         margin-top: 250px;
         }
     body.index {
-     background-position: left-center;
+     backgroud-attachment: fixed !important;
+     background-position: center !important;
     }
 }
 
