@@ -84,6 +84,7 @@ body.index {
         margin-top: 250px;
         }
     body.index {
+     background-image: url("../images/new-record-large.jpg") !important;   
      backgroud-attachment: fixed !important;
      background-position: center !important;
     }
