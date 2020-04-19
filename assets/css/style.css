@@ -74,9 +74,9 @@
         margin-top: 200px;
         }
     body.index {
-     background-image: url("../images/new-record-large.jpg");
+     background-image: url("../images/new-record-large.jpg") !important;
      background-repeat: no-repeat;
-       
+     background-color: pink;  
     }
 }
 
