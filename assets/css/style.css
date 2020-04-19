@@ -68,6 +68,7 @@
     color: #fa98ff;
 }
 
+/*I saw that the footer looked bad on widescreen so I changed the width and margin so it would be more responsive on widescreen*/
 @media (min-width: 1400px) {
     .footer-index{
         margin-top: 200px;
