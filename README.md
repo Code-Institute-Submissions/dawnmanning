@@ -12,10 +12,10 @@ There are three pages Home, About, Sign Me and Contact.
 
 ## Features
 -The logo- I gave the logo a href so that it links back to the home page. 
--I used the color wheel for my colors for font and cards so that there was a color consistency throughout the website
--I embedded music videos that align with the website content. I wanted to use video rather then pictures.
--I added a footer with social media links I found on https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
- -I embedded a google map on contact page
+* I used the color wheel for my colors for font and cards so that there was a color consistency throughout the website
+* I embedded music videos that align with the website content. I wanted to use video rather then pictures.
+* I added a footer with social media links I found on https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
+* I embedded a google map on contact page
 -I created a form  for the contact page and stlyed it using css as well as adding a message box. 
 -I created a simple diaghrams of the homepage,about and sign me page before I stated to create the website. I then created the form page with boothstrap
 ![image of homepage mock-up](capture.png)
