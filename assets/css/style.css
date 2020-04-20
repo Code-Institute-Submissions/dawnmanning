@@ -5,11 +5,6 @@
     box-sizing: border-box;
 }
 
-.content {
-  max-width: 1400px;
-  margin: auto;
-}
-
 .navbar {
     font-family: 'Orbitron', sans-serif;
     display: flex;
@@ -82,11 +77,17 @@ body.index {
 @media (min-width: 1400px) {
     .footer-index{
         margin-top: 250px;
-        }
+    }
+    
     body.index {
      background-image: url("../images/large-record.png") !important; 
      backgroud-attachment: fixed !important;
      background-position: 30px 40px !important;
+    }
+    
+    .content {
+    max-width: 1400px;
+    margin: auto;
     }
 }
 
