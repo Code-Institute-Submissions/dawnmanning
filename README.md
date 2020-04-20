@@ -19,6 +19,7 @@ I created a form  for the contact page and stlyed it using css as well as adding
 I created a simple diaghram of the homepage before I stated to create the website. I drew out pictures then in my notepad of what i wanted the se
 ![image of homepage mock-up](capture.png)
 ![image of homepage mock-up2](websitedesign.png)
+![image of sign me page](signmedesign.png)
 
  
 ### Existing Features
