@@ -64,6 +64,14 @@
     border-radius: 10px;
 }
 
+/* The following stops mobile scrolling to the left - x axis */
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
 body.index {
  background-image: url("../images/new-record.png");
  background-repeat: no-repeat;
