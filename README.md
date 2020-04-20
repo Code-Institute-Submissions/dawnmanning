@@ -1,11 +1,11 @@
 # Lunar Records
 
-I was the owner of a  music school for a number of years, mainly for voice development.I worked with many recording studios and created albums for my students. I always thought that the music industry was unfair as they own the rights of the artists music. I wanted to create a record label that did not take ownership of artists music and that also was a one stop shop for musicians who are looking to get their music out into the public arena.
+I was the owner of a  music school for a number of years, mainly for voice development. I worked with many recording studios and created albums for my students. I always thought that the music industry was unfair as they own the rights of the artists music. I wanted to create a record label that did not take ownership of artists music and that also was a one stop shop for musicians who are looking to get their music out into the public arena.
  
 ## UX
  
 Lunar Records is a record comapany that signs artist/singers. There are four pages on the website- Home, About, Sign Me and Contact.
-The website allows artists to sign up(sign me). The website provides a one stop shop for artists which includes digital marketing,uploads artits music to streaming sites, provides artits with links to recording studios and video creators. Lunar Records provides a different service as it does not own the rights to the artists music and only takes a small percentage of downloads.(This information is found on the 'about' page)
+The website allows artists to sign up(sign me). The website provides a one stop shop for artists which includes digital marketing, uploads artits music to streaming sites, provides artits with links to recording studios and video creators. Lunar Records provides a different service as it does not own the rights to the artists music and only takes a small percentage of downloads.(This information is found on the 'about' page)
  
 - User type-Artist/Performer-who are looking for a Manager-Record Deal-This is so that the artist can achieve a finished piece that can be streamed.
 
@@ -39,8 +39,6 @@ It had a simple design that also was mobile responsive. I learned this method an
 I also used boothstrap to create my form in the contact page. 
 
 
-
-
 ## Testing
 
 The website is working with all buttoms sucessfully loading the four pages. 
@@ -52,7 +50,7 @@ There are four pages all work well and are mobile and widescreen responsive.
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
    
 
-2. I started using my laptop to create my website.The website was also mobile responsive. I also wanted to make the website look well on widescreen so to do that I had to add a centent section in css.This took along time and a geat deal of research as the picture was to the right of the widesreen everytime I refreshed the page. I tried to add a large picture to only widescreen in css but it did not work. I then found that from research that I could move the picture around the screen easily using the x y position and that worked. 
+2. I started using my laptop to create my website. The website was also mobile responsive. I also wanted to make the website look well on widescreen so to do that I had to add a centent section in css. This took along time and a geat deal of research as the picture was to the right of the widesreen everytime I refreshed the page. I tried to add a large picture to only widescreen in css but it did not work. I then found that from research that I could move the picture around the screen easily using the x y position and that worked. 
 
 
 ## Deployment
@@ -74,7 +72,7 @@ I then embeded videos from youtube on the home page, about me and sign me page. 
 
 ### Acknowledgements
 
- I was inspired by my past issues with creating music and streaming. I would have liked a one stop shop instead of having to use several different professionals and services for creating music and video. I also read many articles on the new age of music and how record labels are changing as more people are releasing their own music independent of high cost record labels. https://www.bbvaopenmind.com/en/articles/the-music-industry-in-an-age-of-digital-distribution/ 
+I was inspired by my past issues with creating music and streaming. I would have liked a one stop shop instead of having to use several different professionals and services for creating music and video. I also read many articles on the new age of music and how record labels are changing as more people are releasing their own music independent of high cost record labels. https://www.bbvaopenmind.com/en/articles/the-music-industry-in-an-age-of-digital-distribution/ 
  https://www.nytimes.com/2018/09/06/business/media/spotify-music-industry-record-labels.html
  https://www.oxfordstudent.com/2016/10/09/end-major-record-label/
 
