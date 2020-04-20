@@ -4,8 +4,9 @@ I used to own my own music school which with mainly for voice development.I work
  
 ## UX
  
-Lunar Records is a record comapany that signs artist/singers. The website allows artists to sign up(sign me). The website provides a one stop shop for artists which includes digital marketing,uploads artits music to streaming sites, provides artits with links to recording studios and video creators. Lunar Records provides a different service as it does not own the rights to the artists music and only takes a small percentage of downloads.
-### There are three pages Home, About, Sign Me and Contact. 
+Lunar Records is a record comapany that signs artist/singers. There are three pages Home, About, Sign Me and Contact.
+The website allows artists to sign up(sign me). The website provides a one stop shop for artists which includes digital marketing,uploads artits music to streaming sites, provides artits with links to recording studios and video creators. Lunar Records provides a different service as it does not own the rights to the artists music and only takes a small percentage of downloads.
+ 
 - User type-Artist/performer, I want to look for a manager-record deal, so that the artist can achieve a finished piece that can be streamed .
 
 
