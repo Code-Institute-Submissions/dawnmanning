@@ -19,9 +19,9 @@ The website allows artists to sign up(sign me). The website provides a one stop 
 * I embedded a google map on contact page
 * I created a form  for the contact page and stlyed it using css as well as adding a message box. 
 * I created a simple diaghrams of the homepage,about and sign me page before I stated to create the website. I then created the form page with boothstrap
-![image of homepage mock-up](capture.png)
-![image of homepage mock-up2](websitedesign.png)
-![image of sign me page](signmedesign.png)
+- ![image of homepage mock-up](capture.png)
+- ![image of homepage mock-up2](websitedesign.png)
+- ![image of sign me page](signmedesign.png)
 
  
 ### Existing Features
