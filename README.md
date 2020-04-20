@@ -5,13 +5,13 @@ I used to own my own music school which with mainly for voice development.I work
 ## UX
  
 Lunar Records is a record comapany that signs artist/singers. The website allows artists to sign up(sign me). The website provides a one stop shop for artists which includes digital marketing,uploads artits music to streaming sites, provides artits with links to recording studios and video creators. Lunar Records provides a different service as it does not own the rights to the artists music and only takes a small percentage of downloads.
-There are three pages Home, About, Sign Me and Contact. 
+### There are three pages Home, About, Sign Me and Contact. 
 - User type-Artist/performer, I want to look for a manager-record deal, so that the artist can achieve a finished piece that can be streamed .
 
 
 
 ## Features
--The logo- I gave the logo a href so that it links back to the home page. 
+* I gave the logo a href so that it links back to the home page. 
 * I used the color wheel for my colors for font and cards so that there was a color consistency throughout the website
 * I embedded music videos that align with the website content. I wanted to use video rather then pictures.
 * I added a footer with social media links I found on https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
