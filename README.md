@@ -1,5 +1,5 @@
 # Lunar Records
-
+Deployment address is dawnmanning.github.io
 I was the owner of a  music school for a number of years, mainly for voice development. I worked with many recording studios and created albums for my students. I always thought that the music industry was unfair as they own the rights of the artists music. I wanted to create a record label that did not take ownership of artists music and that also was a one stop shop for musicians who are looking to get their music out into the public arena.
  
 ## UX
